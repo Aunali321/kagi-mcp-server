@@ -10,7 +10,7 @@ mcp = FastMCP(
         First call authenticate() with your Kagi token to save cookies.
         Then use search() to perform searches using your authenticated session.
     """,
-)-
+)
 
 COOKIES_FILE = "kagi_cookies.json"
 
